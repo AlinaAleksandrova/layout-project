@@ -1,22 +1,30 @@
 {
-  "name": "layout-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "browser-sync": "^3.0.2",
-    "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.3.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^9.1.0",
-    "gulp-sass": "^5.1.0",
-    "gulp-uglify": "^3.0.2",
-    "sass": "^1.78.0"
-  }
+    "name": "MySite",
+    "version": "1.0.0",
+    "description": "HW 45. Gulp V1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^3.0.3",
+        "gulp": "^4.0.2",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^9.1.0",
+        "gulp-sass": "^6.0.1",
+        "gulp-uglify": "^3.0.2",
+        "sass": "^1.86.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlinaAleksandrova/layout-project.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AlinaAleksandrova/layout-project/issues"
+    },
+    "homepage": "https://github.com/AlinaAleksandrova/layout-project#readme"
 }
